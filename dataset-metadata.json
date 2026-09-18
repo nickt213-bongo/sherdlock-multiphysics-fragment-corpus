@@ -1,0 +1,10 @@
+{
+  "asset": "SHERDLOCK_Participant_Data_v1.zip",
+  "bytes": 398230028,
+  "dataset": "SherdLock Multiphysics Fragment Corpus",
+  "license": "CC-BY-4.0",
+  "sha256": "37b34f50bbeb0f7800efda2cbf7970b449f5a9001524d103515585cba3e2c490",
+  "test": 120,
+  "train": 360,
+  "version": "1.0.0"
+}
